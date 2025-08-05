@@ -4,7 +4,7 @@ This project documents a hands-on penetration test targeting a misconfigured FTP
 
 ## 📄 PDF Report
 
-👉 [Click here to read the full report](./CSE_Lab_13.pdf(1))
+👉 [Click here to read the full report](./CSE%20Lab%2013%20pdf%20(1).pdf)
 
 ## 🔍 Summary
 
